@@ -1,6 +1,6 @@
 # Finanzas 💰
 
-<img src="https://mcdn.wallpapersafari.com/medium/90/72/IijLQx.jpeg" width='50%'>
+<img src="https://mcdn.wallpapersafari.com/medium/90/72/IijLQx.jpeg" width='70%'>
 
 
 ## Tabla de contenidos
