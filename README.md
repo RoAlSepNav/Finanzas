@@ -1,6 +1,6 @@
 # Finanzas 💰
 
-<img src="https://tecolotito.elsiglodetorreon.com.mx/i/2023/04/1676517.jpeg" width='60%'>
+<img src="https://images7.alphacoders.com/676/676408.jpg" width='50%'>
 
 
 ## Tabla de contenidos
