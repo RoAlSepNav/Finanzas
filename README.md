@@ -12,7 +12,7 @@
 
 
 ### Descripción del Proyecto :clipboard:
-Este proyecto se basa en el análisis de datos proporcionados en el archivo `Ventas+Videojuegos.xlsx`, que alberga información relevante sobre la industria de los videojuegos.
+Este proyecto se basa en el análisis de datos proporcionados en el archivo `Finanzas.xlsx`.
 
 
 ### Herramientas Utilizadas :wrench:
@@ -20,9 +20,9 @@ Este proyecto se basa en el análisis de datos proporcionados en el archivo `Ven
 
   
 ### Estructura del Proyecto :open_file_folder:
-- **videojuegos.pbix:** Reporte de Power BI basado en los datos extraídos.
+- **finanzas.pbix:** Reporte de Power BI basado en los datos extraídos.
 
   
 ### Cómo usar este proyecto :question:
 Para aprovechar al máximo este proyecto, simplemente sigue estos pasos:
-1. Abre el archivo `videojuegos.pbix` y explora el informe generado en Power BI.
+1. Abre el archivo `finanzas.pbix` y explora el informe generado en Power BI.
